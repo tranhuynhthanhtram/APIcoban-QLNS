@@ -1,0 +1,17 @@
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\obj\Debug\net6.0\QLNS.DAL.csproj.AssemblyReference.cache
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\obj\Debug\net6.0\QLNS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\obj\Debug\net6.0\QLNS.DAL.AssemblyInfoInputs.cache
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\obj\Debug\net6.0\QLNS.DAL.AssemblyInfo.cs
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\obj\Debug\net6.0\QLNS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\bin\Debug\net6.0\QLNS.DAL.deps.json
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\bin\Debug\net6.0\QLNS.DAL.runtimeconfig.json
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\bin\Debug\net6.0\QLNS.DAL.dll
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\bin\Debug\net6.0\QLNS.DAL.pdb
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\bin\Debug\net6.0\QLNS.Common.dll
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\bin\Debug\net6.0\QLNS.Common.pdb
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\obj\Debug\net6.0\QLNS.DAL.csproj.CopyComplete
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\obj\Debug\net6.0\QLNS.DAL.dll
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\obj\Debug\net6.0\refint\QLNS.DAL.dll
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\obj\Debug\net6.0\QLNS.DAL.pdb
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\obj\Debug\net6.0\QLNS.DAL.genruntimeconfig.cache
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.DAL\obj\Debug\net6.0\ref\QLNS.DAL.dll

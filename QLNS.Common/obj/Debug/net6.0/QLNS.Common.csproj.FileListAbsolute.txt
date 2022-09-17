@@ -1,0 +1,14 @@
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\obj\Debug\net6.0\QLNS.Common.csproj.AssemblyReference.cache
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\obj\Debug\net6.0\QLNS.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\obj\Debug\net6.0\QLNS.Common.AssemblyInfoInputs.cache
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\obj\Debug\net6.0\QLNS.Common.AssemblyInfo.cs
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\obj\Debug\net6.0\QLNS.Common.csproj.CoreCompileInputs.cache
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\bin\Debug\net6.0\QLNS.Common.deps.json
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\bin\Debug\net6.0\QLNS.Common.dll
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\bin\Debug\net6.0\QLNS.Common.pdb
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\obj\Debug\net6.0\QLNS.Common.dll
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\obj\Debug\net6.0\refint\QLNS.Common.dll
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\obj\Debug\net6.0\QLNS.Common.pdb
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\obj\Debug\net6.0\ref\QLNS.Common.dll
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\bin\Debug\net6.0\QLNS.Common.runtimeconfig.json
+C:\Users\Tram\Desktop\LTCSDL\QLNS\QLNS.Common\obj\Debug\net6.0\QLNS.Common.genruntimeconfig.cache
